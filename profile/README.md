@@ -1,6 +1,6 @@
 # Cultiv studio
 
-Welcome to the official repository of Cultiv Studio!
+Welcome to the official repository of Cultiv LLC!
 
 Cultiv is a platform that supports innovation through venture building, networking, and community-building. Our mission is to empower entrepreneurs, innovators, technologists, and designers across Europe and the MENA region. This repository represents the work and projects of our studio, focusing on driving forward cutting-edge technology development, product innovation, and creating impactful solutions in the areas of deep-tech, AI, software, hardware, and more.
 

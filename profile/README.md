@@ -1,4 +1,4 @@
-# Cultiv studio
+# Cultiv LLC
 
 Welcome to the official repository of Cultiv LLC!
 
